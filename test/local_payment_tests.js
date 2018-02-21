@@ -227,7 +227,6 @@ describe('Local Payment Method Tests', () => {
 			});
 	});
 
-
 	it('Validate Invalid Bank Country Code', (done) => {
 		let data = {
 			payment_method: "LOCAL",
