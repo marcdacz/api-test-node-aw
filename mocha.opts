@@ -1,0 +1,4 @@
+--require ./config/setup
+--recursive
+--globals chai,should,server,randomstring
+--timeout 30000
